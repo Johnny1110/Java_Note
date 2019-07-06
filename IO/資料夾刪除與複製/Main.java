@@ -6,8 +6,8 @@ import java.nio.file.Paths;
 
 public class Main {
     private static final String DELETE_DIR = "/home/Johnny/laboratory/testDir";
-    private static final String FROM_DIR = "/home/Johnny/laboratory/A";
-    private static final String TO_DIR = "/home/Johnny/laboratory/B";
+    private static final String FROM_DIR = "/home/Johnny/laboratory/buffer";
+    private static final String TO_DIR = "/home/Johnny/laboratory/buffer_bak";
 
     private static DirKit dirKit = new DirKit();
 
@@ -17,8 +17,8 @@ public class Main {
         dirKit.deleteDir(dir1);
 
         //-- 複製 --//
-        Path dir2 = Paths.get(DELETE_DIR);
-        Path dir3 = Paths.get(DELETE_DIR);
+        Path dir2 = Paths.get(FROM_DIR);
+        Path dir3 = Paths.get(TO_DIR);
         dirKit.copyDir(dir2, dir3);
     }
 }
