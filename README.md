@@ -13,7 +13,20 @@
 
 ## 目錄
 
-### 1. IO 相關
+### 1. IO 
 
-* [資料夾刪除與複製](./IO相關/資料夾刪除與複製/README.md)
-* [WatchService 實作](./IO相關/WatchService實作/README.md)
+* [資料夾刪除與複製](./IO/資料夾刪除與複製/README.md)
+* [WatchService 實作](./IO/WatchService實作/README.md)
+
+<br>
+
+### 2. JGit
+
+* [用 Java 操作 git 歷遍 commit](./JGit/JGitWalkCommit/README.md)
+* [JGit clone git-server 上的專案](./JGit/JGitCloneRepo/README.md)
+
+<br>
+
+### 3. POI
+
+* [Java 產出 Office 文件系列工具](./POI/README.md)
