@@ -24,6 +24,7 @@
 
 * [用 Java 操作 git 歷遍 commit](./JGit/JGitWalkCommit/README.md)
 * [JGit clone git-server 上的專案](./JGit/JGitCloneRepo/README.md)
+* [使用 Deamon 重構 clone git repo](./JGit/DeamonRefactor/README.md)
 
 <br>
 
@@ -36,3 +37,9 @@
 ### 4. Lambda
 
 * [實作 forEach](./Lambda/實作forEach/README.md)
+
+<br>
+
+### 5. Java Projects
+
+ * [JDK]()
