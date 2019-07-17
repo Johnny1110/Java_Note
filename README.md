@@ -40,7 +40,14 @@
 
 <br>
 
-### 5. Java Projects
+
+### 5. Thread
+
+* [CyclicBarrier 執行緒的緩衝](./Thread/CyclicBarrier/README.md)
+
+<br>
+
+### 6. Java Projects
 
  * [JDK]()
 
