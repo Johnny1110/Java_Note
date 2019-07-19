@@ -18,7 +18,7 @@ ExecutorService 介面是 Thread Pool 的概念，其主要實作分為 2 類，
 <table>
 
 <tr>
-<td>Pool Name</td>
+<td> Pool Name </td>
 <td>|</td>
 <td>數量指定</td>
 <td>自動增加數量</td>
@@ -50,7 +50,7 @@ ExecutorService 需要搭配 Future<T> 與 Callable 介面使用。ExecutorServi
 
 這裏我有兩個實作，一個是組塞式等待 ExecutorServiceDemo1，這並不是明智的使用方式，Future 一旦啟用 get( ) 方法就會在當前進程上組塞等待，如果一開始直接使用 get( ) 就跟沒用多執行緒一樣。另一個 ExecutorServiceDemo2 則是正常使用方法。
 
-ExecutorService 的 shutdown( ) 方法會等待所有執行緒完成工作之後再統一關閉。
+**ExecutorService 的 shutdown( ) 方法被啟動後會等待所有執行緒完成工作之後再統一關閉。**
 
 <br>
 
