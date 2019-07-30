@@ -53,7 +53,14 @@
 
  * [JDK]()
 
- <br>
+
+<br>
+
+### 7. Design Pattern
+
+* [代理模式](./DesignPattern/ProxyMode/RRADME.md)
+
+<br>
 
  ### +. 犯錯合集
 
