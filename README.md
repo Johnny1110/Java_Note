@@ -49,14 +49,20 @@
 
 <br>
 
-### 6. Java Projects
+### 6. Collection
+
+* [Comparable & Comparator](./Collection/Comparable&Comparator.md)
+
+<br>
+
+### 7 Java Projects
 
  * [JDK]()
 
 
 <br>
 
-### 7. Design Pattern
+### 8. Design Pattern
 
 * [代理模式](./DesignPattern/ProxyMode/RRADME.md)
 
