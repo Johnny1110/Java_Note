@@ -66,6 +66,8 @@
 
 * [代理模式](./DesignPattern/ProxyMode/RRADME.md)
 
+* [建構者模式](./DesignPattern/builderPattern/README.md)
+
 <br>
 
  ### +. 犯錯合集
