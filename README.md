@@ -51,13 +51,15 @@
 
 ### 6. Collection
 
-* [Comparable & Comparator](./Collection/Comparable&Comparator.md)
+* [Comparable & Comparator](./Collection/Comparable&Comparator/README.md)
 
 <br>
 
 ### 7. Date & Time (jdk 1.8+)
 
-* [有趣的 LocalDate 和 LocalTime](./Date&Time/LocalDate&LocalTime.md)
+* [有趣的 LocalDate 和 LocalTime](./Date&Time/LocalDate&LocalTime/README.md)
+
+* [實作世界時鐘](./Date&Time/WorldClock/README.md)
 
 <br>
 

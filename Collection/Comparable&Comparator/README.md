@@ -47,15 +47,17 @@ Comparator 則是可以作用於有 sort 方法的集合物件中。
             }
         }
 
-    這邊 Person 直接實作 Comparable 介面，覆寫 compareTo 方法，依傳回的整數值判定排序方式。
+    * 這邊 Person 直接實作 Comparable 介面，覆寫 compareTo 方法，依傳回的整數值判定排序方式。
 
-    * compareTo = 0  表示兩者相等不動作。
+        * compareTo = 0  表示兩者相等不動作。
 
-    * compareTo < 0 表示 this 小於 other，this 要排在 other 前面。
+        * compareTo < 0 表示 this 小於 other，this 要排在 other 前面。
 
-    * compareTo > 0 表示 this 大於 other，this 要牌在 other 後面。
+        * compareTo > 0 表示 this 大於 other，this 要牌在 other 後面。
 
-    其實簡單理解在 compareTo( ) 中， this - other 就是升冪排法，other - this 就是降冪排法。
+    <br>    
+
+    * 其實簡單理解在 compareTo( ) 中， this - other 就是升冪排法，other - this 就是降冪排法。
 
     執行看看吧 ：
 
@@ -89,11 +91,13 @@ Comparator 則是可以作用於有 sort 方法的集合物件中。
         ------------------------
         key: Johnny 1000 value: 1
         key: Babala 1100 value: 4
-        key: kid 1400 value: 3
+        key: kid 1400 value: 3  
         key: Jarvan 1600 value: 2
 
- 可以看到 TreeSet 很簡單，單純排序而以。TreeMap 要稍微注意一下，它不是排序 value，而是排序 key ( 被擺了一道，一直執著是排序 value ) 。
+    * 可以看到 TreeSet 很簡單，單純排序而以。TreeMap 要稍微注意一下，它不是排序 value，而是排序 key ( 被擺了一道，一直執著是排序 value ) 。
 
+<br>
+<br>
 <br>
 <br>
 
