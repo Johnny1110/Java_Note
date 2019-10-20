@@ -64,11 +64,19 @@
 
 <br>
 
-### 8. Design Pattern
+### 8. Regex
+
+* [1.LeetCode 題目: string-to-integer-atoi](./Regex/atio/README.md)
+
+<br>
+
+### 9. Design Pattern
 
 * [代理模式](./DesignPattern/ProxyMode/RRADME.md)
 
 * [建構者模式](./DesignPattern/builderPattern/README.md)
+
+
 
 <br>
 <br>
