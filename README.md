@@ -86,6 +86,8 @@
  ### +. 犯錯合集
 
  * [Thread sleep() 對象鎖 wait() notifyAll()](./MistakeCollection/ThreadMistake.md)
+ 
+ * [Thread 錯誤的鎖對象](./MistakeCollection/wrongSynchronized.md)
 
  <br>
 
