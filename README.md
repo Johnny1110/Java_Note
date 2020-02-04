@@ -85,7 +85,14 @@
 
 <br>
 
-### 11. SystemAPI
+
+### 11. 日誌
+
+* [配置與使用 Log4j2](./javaLogger/Log4j2)
+
+<br>
+
+### 12. SystemAPI
 
 *   [java 呼叫命令列執行](./SystemAPI/Process)
 
