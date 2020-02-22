@@ -1,17 +1,18 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.nio.charset.Charset;
 
-public class CMDCaller {
+public class Main {
+    private static final String CMD = "python D:/buffer/logger.py";
+    private static final Charset WIN32_CHARSET = Charset.forName("cp950");
+
     public static void main(String[] args) throws IOException, InterruptedException {
-        StringBuilder sb = new StringBuilder();
-        sb.append("python ./RunThread.py");
-        Process process = Runtime.getRuntime().exec(sb.toString());
-
+        Process process = Runtime.getRuntime().exec(CMD);
         int exitCode = process.waitFor();
         System.out.println("exitCode : " + exitCode);
 
-        try(BufferedReader printerReader = new BufferedReader(new InputStreamReader(process.getInputStream()));
+        try(BufferedReader printerReader = new BufferedReader(new InputStreamReader(process.getInputStream(), WIN32_CHARSET));
             BufferedReader errorReader = new BufferedReader(new InputStreamReader(process.getErrorStream()))){
 
             printerReader.lines().forEach(msg ->{
@@ -22,7 +23,5 @@ public class CMDCaller {
                 System.out.println("python error : " + msg);
             });
         }
-
-
     }
 }
