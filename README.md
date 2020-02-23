@@ -15,11 +15,11 @@
 
 ### 1. IO / NIO
 
-* [java IO API 整理](./IO/javaIOApi整理/README.md)
+* [java IO API 整理](./IO/javaIOApi整理)
 
-* [資料夾刪除與複製](./IO/資料夾刪除與複製/README.md)
+* [資料夾刪除與複製](./IO/資料夾刪除與複製)
 
-* [WatchService 實作](./IO/WatchService實作/README.md)
+* [WatchService 實作](./IO/WatchService實作)
 
 * [Channel IO](./IO/Channel_IO/.README.md)
 
@@ -27,60 +27,60 @@
 
 ### 2. JGit
 
-* [用 Java 操作 git 歷遍 commit](./JGit/JGitWalkCommit/README.md)
+* [用 Java 操作 git 歷遍 commit](./JGit/JGitWalkCommit)
 
-* [JGit clone git-server 上的專案](./JGit/JGitCloneRepo/README.md)
+* [JGit clone git-server 上的專案](./JGit/JGitCloneRepo)
 
-* [使用 Deamon 重構 clone git repo](./JGit/DeamonRefactor/README.md)
+* [使用 Deamon 重構 clone git repo](./JGit/DeamonRefactor)
 
 <br>
 
 ### 3. POI
 
-* [Java 產出 Office 文件系列工具](./POI/README.md)
+* [Java 產出 Office 文件系列工具](./POI)
 
 <br>
 
 ### 4. Lambda
 
-* [實作 forEach](./Lambda/實作forEach/README.md)
+* [實作 forEach](./Lambda/實作forEach)
 
 <br>
 
 
 ### 5. Thread
 
-* [CyclicBarrier 執行緒的緩衝](./Thread/CyclicBarrier/README.md)
-* [ExecutorService 實作](./Thread/ExecutorService/README.md)
-* [Fork & Join 框架實作費氏數](./Thread/Fork&Join/README.md)
+* [CyclicBarrier 執行緒的緩衝](./Thread/CyclicBarrier)
+* [ExecutorService 實作](./Thread/ExecutorService)
+* [Fork & Join 框架實作費氏數](./Thread/Fork&Join)
 
 <br>
 
 ### 6. Collection
 
-* [Comparable & Comparator](./Collection/Comparable&Comparator/README.md)
+* [Comparable & Comparator](./Collection/Comparable&Comparator)
 
 <br>
 
 ### 7. Date & Time (jdk 1.8+)
 
-* [有趣的 LocalDate 和 LocalTime](./Date&Time/LocalDate&LocalTime/README.md)
+* [有趣的 LocalDate 和 LocalTime](./Date&Time/LocalDate&LocalTime)
 
-* [實作世界時鐘](./Date&Time/WorldClock/README.md)
+* [實作世界時鐘](./Date&Time/WorldClock)
 
 <br>
 
 ### 8. Regex
 
-* [1.LeetCode 題目: string-to-integer-atoi](./Regex/atio/README.md)
+* [1.LeetCode 題目: string-to-integer-atoi](./Regex/atio)
 
 <br>
 
 ### 9. Design Pattern
 
-* [代理模式](./DesignPattern/ProxyMode/RRADME.md)
+* [代理模式](./DesignPattern/ProxyMode)
 
-* [建構者模式](./DesignPattern/builderPattern/README.md)
+* [建構者模式](./DesignPattern/builderPattern)
 
 
 <br>
