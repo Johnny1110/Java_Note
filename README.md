@@ -82,6 +82,10 @@
 
 * [建構者模式](./DesignPattern/builderPattern/README.md)
 
+* [製作 Listener (觀察者模式應用)](./DesignPattern/Listener/README.md)
+
+* [裝飾器（Decorator）設計](./DesignPattern/Decorator/README.md)
+
 
 <br>
 
@@ -110,7 +114,7 @@
  ### +. 犯錯合集
 
  * [Thread sleep() 對象鎖 wait() notifyAll()](./MistakeCollection/ThreadMistake.md)
- 
+
  * [Thread 錯誤的鎖對象](./MistakeCollection/wrongSynchronized.md)
 
  <br>
