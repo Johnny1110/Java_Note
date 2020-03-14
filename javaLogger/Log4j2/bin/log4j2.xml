@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" monitorInterval="300">
+
+    <properties>
+        <property name="LOG_HOME">D:/logs</property>
+        <property name="FILE_NAME">mylog</property>
+    </properties>
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </Console>
+
+        <File name="MyFile" fileName="D:/logs/app.log">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </File>
+
+        <!-- fileName : 當前 log 位置名稱 -->
+        <!-- filePattern : 當發生 rolling 時 log 移動規則 -->
+        <RollingRandomAccessFile name="MyRollingFile"
+                                 fileName="${LOG_HOME}/${FILE_NAME}.log"
+                                 filePattern="${LOG_HOME}/$${date:yyyy-MM}/${FILE_NAME}-%d{yyyy-MM-dd HH-mm}-%i.log">
+            <PatternLayout
+                    pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+            <Policies>
+                <!-- TimeBasedTriggeringPolicy 為每一單位時間rolling一次，與 filePattern 结合使用 -->
+                <!-- 單位為%d{yyyy-MM-dd HH-mm}中最小單位 mm(分鐘)，若為%d{yyyy-MM-dd HH}則是以 HH(小時)計算 -->
+                <TimeBasedTriggeringPolicy interval="1" />
+                <!-- SizeBasedTriggeringPolicy : 當 log file size 大於定量時變發生 rolling -->
+                <SizeBasedTriggeringPolicy size="10 MB" />
+            </Policies>
+            <!-- DefaultRolloverStrategy : 最多保存的文件個數 -->
+            <DefaultRolloverStrategy max="20" />
+        </RollingRandomAccessFile>
+
+    </Appenders>
+
+
+    <Loggers>
+        <!--additivity="false 表示不在延伸至父曾，改為 true 則會以 Root Loger 配置再輸出一次"-->
+        <Logger name="mylog" level="trace" additivity="true">
+            <!-- 此處指定欲使用的 Appenders 名稱 -->
+            <AppenderRef ref="MyRollingFile" />
+        </Logger>
+
+        <Root level="trace">
+            <AppenderRef ref="Console" />
+        </Root>
+    </Loggers>
+</Configuration>

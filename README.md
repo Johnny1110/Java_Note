@@ -51,7 +51,9 @@
 ### 5. Thread
 
 * [CyclicBarrier 執行緒的緩衝](./Thread/CyclicBarrier)
+
 * [ExecutorService 實作](./Thread/ExecutorService)
+
 * [Fork & Join 框架實作費氏數](./Thread/Fork&Join)
 
 <br>
@@ -86,6 +88,7 @@
 
 * [裝飾器（Decorator）設計](./DesignPattern/Decorator/README.md)
 
+* [簡易工廠模式設計](./DesignPattern/Factory/README.md)
 
 <br>
 
@@ -98,7 +101,7 @@
 
 ### 11. 日誌
 
-* [配置與使用 Log4j2](./javaLogger/log4j2)
+* [配置與使用 Log4j2](./javaLogger/Log4j2)
 
 <br>
 
