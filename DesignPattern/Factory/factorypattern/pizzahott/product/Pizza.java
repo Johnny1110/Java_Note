@@ -16,3 +16,5 @@ public abstract class Pizza {
         System.out.println("封裝入盒..");
     }
 }
+
+
