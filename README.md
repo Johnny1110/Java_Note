@@ -110,6 +110,12 @@
 *   [java 呼叫命令列執行](./SystemAPI/Process)
 
 <br>
+
+### 12. 演算法
+
+*   [25 的乘階（25!）怎麼算 ?](./Algorithm/Factorial/README.md)
+
+<br>
 <br>
 <br>
 <br>
