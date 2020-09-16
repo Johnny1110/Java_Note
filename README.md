@@ -121,7 +121,7 @@
 
 <br>
 
-### 12. 演算法
+### 13. 演算法
 
 *   [25 的乘階（25!）怎麼算 ?](./Algorithm/Factorial/README.md)
 
@@ -137,7 +137,16 @@
  * [Thread 錯誤的鎖對象](./MistakeCollection/wrongSynchronized.md)
 
  <br>
+ <br>
 
  ### +. Java Projects
 
  * [JDK]()
+
+
+<br>
+<br>
+
+  ### +. 其他
+
+ * [Kafka 安裝教學](./others/kafka_install/README.md)
