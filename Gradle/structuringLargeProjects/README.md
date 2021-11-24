@@ -10,6 +10,10 @@
 
 <br>
 
+完整的整合範例放在這邊，可以供下載使用：https://github.com/Johnny1110/frizo-gradle-Integration
+
+<br>
+
 在本次範例中的專案結構大致如下：
 
 <br>
