@@ -128,6 +128,12 @@
 *   [25 的乘階（25!）怎麼算 ?](./Algorithm/Factorial/README.md)
 
 <br>
+
+### 14. Gradle
+
+*   [Gradle 整合大型專案](./Gradle/structuringLargeProjects/README.md)
+
+<br>
 <br>
 <br>
 <br>
