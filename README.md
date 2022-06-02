@@ -13,6 +13,16 @@
 
 ## 目錄
 
+<br>
+
+### 常用
+
+* [開 maven 新專案 pom.xml(基本款)](./maven/basic/pom.xml)
+
+* [開 maven 新專案 pom.xml(Spring Boot)](./maven/spring_boot/pom.xml)
+
+<br>
+
 ### 1. IO / NIO
 
 * [java IO API 整理](./IO/javaIOApi整理)
@@ -22,6 +32,8 @@
 * [WatchService 實作](./IO/WatchService實作)
 
 * [Channel IO](./IO/Channel_IO/.README.md)
+
+* [TGZ 套件類（不解壓縮讀取 tgz 內文件內容）](./IO/TGZ/README.md)
 
 <br>
 
@@ -111,7 +123,7 @@
 
 <br>
 
-### 12. 演算法
+### 13. 演算法
 
 *   [25 的乘階（25!）怎麼算 ?](./Algorithm/Factorial/README.md)
 
@@ -126,6 +138,12 @@
 *   [MYSQL 把多筆資料合併成一筆 `GROUP_CONCAT()`](./Algorithm/Factorial/README.md) 
 
 <br>
+
+### 14. Gradle
+
+*   [Gradle 整合大型專案](./Gradle/structuringLargeProjects/README.md)
+
+<br>
 <br>
 <br>
 <br>
@@ -137,7 +155,16 @@
  * [Thread 錯誤的鎖對象](./MistakeCollection/wrongSynchronized.md)
 
  <br>
+ <br>
 
  ### +. Java Projects
 
  * [JDK]()
+
+
+<br>
+<br>
+
+  ### +. 其他
+
+ * [Kafka 安裝教學](./others/kafka_install/README.md)
