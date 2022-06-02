@@ -115,6 +115,16 @@
 
 *   [25 的乘階（25!）怎麼算 ?](./Algorithm/Factorial/README.md)
 
+*   [數字的加總組合](./Algorithm/SumCombination/README.md)
+
+*   [捲積運算](./Algorithm/Convolution/README.md)
+
+<br>
+
+### 13. SQL 類
+
+*   [MYSQL 把多筆資料合併成一筆 `GROUP_CONCAT()`](./Algorithm/Factorial/README.md) 
+
 <br>
 <br>
 <br>
