@@ -141,7 +141,7 @@
 
 ### 15. SQL 類
 
-*   [MYSQL 把多筆資料合併成一筆 `GROUP_CONCAT()`](./Algorithm/Factorial/README.md) 
+*   [MYSQL 把多筆資料合併成一筆 `GROUP_CONCAT()`](./SQL/GROUP_CONCAT/README.md) 
 
 
 
