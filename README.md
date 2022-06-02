@@ -133,15 +133,17 @@
 
 <br>
 
-### 13. SQL 類
-
-*   [MYSQL 把多筆資料合併成一筆 `GROUP_CONCAT()`](./Algorithm/Factorial/README.md) 
-
-<br>
-
 ### 14. Gradle
 
 *   [Gradle 整合大型專案](./Gradle/structuringLargeProjects/README.md)
+
+<br>
+
+### 15. SQL 類
+
+*   [MYSQL 把多筆資料合併成一筆 `GROUP_CONCAT()`](./Algorithm/Factorial/README.md) 
+
+
 
 <br>
 <br>
