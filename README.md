@@ -102,6 +102,8 @@
 
 * [簡易工廠模式設計](./DesignPattern/Factory/README.md)
 
+* [創建和銷毀物件](./DesignPattern/CreateAndDestory/README.md)
+
 <br>
 
 ### 10. Java Crawler
