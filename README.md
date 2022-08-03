@@ -147,6 +147,12 @@
 
 *   [MYSQL 把多筆資料合併成一筆 `GROUP_CONCAT()`](./SQL/GROUP_CONCAT/README.md) 
 
+<br>
+
+### 16. Java 通用工具類
+
+*   [檢查 JavaBean 的 Field 是否恰當填值 （不為空字串或 null）](./common/checkJavaBean/README.md) 
+
 
 
 <br>
