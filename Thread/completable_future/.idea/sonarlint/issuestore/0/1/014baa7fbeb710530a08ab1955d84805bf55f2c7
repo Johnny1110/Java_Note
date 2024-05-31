@@ -1,0 +1,12 @@
+
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Å¹°‚8¶ÿ›æü1J$c6a4e0e2-1632-4a62-a718-f2d3128eaa78
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ô™ãıÿÿÿÿ8¸ÿ›æü1J$20147d66-c8ce-4519-902d-32a629b9405c
+r	java:S106	"+Replace this use of System.out by a logger.(Ù­Í³şÿÿÿÿ8¼ÿ›æü1J$37f8f1a3-f70e-4e80-81eb-051a899d8fc1
+r	java:S106"+Replace this use of System.out by a logger.(™çšùÿÿÿÿ8¼ÿ›æü1J$74e2ca35-31b3-4516-8525-5bc20d32903b
+m	java:S106"+Replace this use of System.out by a logger.(ª²¾ö8¼ÿ›æü1J$4e173e31-bbf2-42e8-b906-12cd53d30828
+r	java:S106"+Replace this use of System.out by a logger.(ì™æ´ûÿÿÿÿ8½ÿ›æü1J$98cbdf55-dcf9-4c65-b39d-73d83952fd97
+m	java:S106"+Replace this use of System.out by a logger.(İŒÙˆ8º÷£æü1J$69978653-e0dc-47d3-b0e1-ffda8d7195c8
+r	java:S106"+Replace this use of System.out by a logger.(™çšùÿÿÿÿ8í•¤æü1J$367515f6-ac7b-4b79-9e2c-98ddaa88b325
+m	java:S106"+Replace this use of System.out by a logger.(ª²¾ö8ÌÒ¥æü1J$6b46ff64-efa8-47ea-9b03-f35b905ccf2b
+r	java:S106"+Replace this use of System.out by a logger.(ì™æ´ûÿÿÿÿ8šŒ§æü1J$951e3fd1-cb20-4c02-849c-b3817bb72dcf
+m	java:S106"+Replace this use of System.out by a logger.(å Š¾8Ñ±§æü1J$64136aee-27aa-494d-83db-867091e18e10

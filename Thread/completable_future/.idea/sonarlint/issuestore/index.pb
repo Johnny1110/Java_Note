@@ -1,0 +1,25 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+U
+%src/main/java/com/frizo/lab/Main.java,3/2/32c154766182553b3c5050a1f173a9f19d598107
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+p
+@src/main/java/com/frizo/lab/asyncTask/CompletableFutureTest.java,4/1/4118b9e6111fad9124105667392bbf619d9d9db1
+q
+Asrc/main/java/com/frizo/lab/asyncTask/CompletableFutureTest2.java,8/4/847cd25e195a9d480e4e1984a7b251aa8ea54a60
+r
+Bsrc/main/java/com/frizo/lab/asyncTask/CompletableFutureTestˇ.java,c/f/cf3b4cefe0b0b0e4df8cb52e3a75ed551b0cc598
+q
+Asrc/main/java/com/frizo/lab/asyncTask/CompletableFutureTest3.java,e/1/e10302014da44e6c8bb720709a6b648621105bec
+q
+Asrc/main/java/com/frizo/lab/asyncTask/CompletableFutureTest4.java,2/b/2b77256ade91695b3b126c453170d9f47f5f0730
+q
+Asrc/main/java/com/frizo/lab/asyncTask/CompletableFutureTest5.java,a/a/aa07afeca1f8bdfe5935da40899a9b42a0bcdd2a
+q
+Asrc/main/java/com/frizo/lab/asyncTask/CompletableFutureTest6.java,a/5/a589a13f41d6e7f632f6309f6037745cb7d7c8fe
+q
+Asrc/main/java/com/frizo/lab/asyncTask/CompletableFutureTest7.java,0/1/014baa7fbeb710530a08ab1955d84805bf55f2c7
+q
+Asrc/main/java/com/frizo/lab/asyncTask/CompletableFutureTest8.java,e/d/ed067e2087a9a13354134af99768a93c4e03cff9

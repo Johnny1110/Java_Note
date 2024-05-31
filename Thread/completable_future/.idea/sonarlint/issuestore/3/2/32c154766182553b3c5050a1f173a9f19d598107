@@ -1,0 +1,9 @@
+
+Δ
+java:S1130"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Λκ8΅σΪδό1J$664fa882-0fa4-48a5-99ea-b449aa139d74
+Ί
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Λκ8΅σΪδό1J$4a2bbf29-fbfa-4ece-b158-426645546776
+–
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(–£Ν8ƒ’δό1J$320c923e-981a-4382-bcfd-d57843997c27
+–
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(·υτπ8ƒ’δό1J$2e06d88f-1ff9-4fe5-bde8-cef110ace129
