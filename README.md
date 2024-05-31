@@ -68,6 +68,8 @@
 
 * [Fork & Join 框架實作費氏數](./Thread/Fork&Join)
 
+* [最新的 Async 做法： CompletableFuture](./Thread/completable_future)
+
 <br>
 
 ### 6. Collection

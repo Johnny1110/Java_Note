@@ -1,16 +1,0 @@
-
-w
-java:S3740"/Provide the parametrized type for this generic.(İÕÓæÿÿÿÿÿ8­èîäü1J$0bea64bd-9901-42b3-a60f-08683277b714
-r
-java:S3740"/Provide the parametrized type for this generic.(’Šæì8á®ğäü1J$6d61d006-7557-4d6a-8b9f-6d0e38195985
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ô™ãıÿÿÿÿ8®èîäü1J$6fea7937-5e98-4ee6-b347-81ff4168fe40
-ƒ
-java:S1854";Remove this useless assignment to local variable "future1".(İÕÓæÿÿÿÿÿ8²èîäü1J$4e45c4dc-a6f9-45d8-82de-ac1062f54676
-t
-java:S1602",Remove useless curly braces around statement(İÕÓæÿÿÿÿÿ8´èîäü1J$9523d356-9ae8-4bf0-b1e1-7b29b61bc7d3
-m	java:S106	"+Replace this use of System.out by a logger.(ÎÜ¡„8´èîäü1J$c99cad2b-88bf-4130-82e0-deb2b1b700f8
-t
-java:S1481",Remove this unused "future1" local variable.(İÕÓæÿÿÿÿÿ8²Îğäü1J$1409d38a-a6fa-42eb-a7bc-1c1b9f814481
-–
-java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(’Šæì8ç®ğäü1J$cf92d527-975c-49af-8eea-770a9354a822
-r	java:S106"+Replace this use of System.out by a logger.(Õ®«Öÿÿÿÿÿ8¥òóäü1J$05fc630d-08d5-4757-9d90-dbebba3c4489
